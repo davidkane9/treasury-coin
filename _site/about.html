@@ -93,6 +93,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./technical.html"> 
+<span class="menu-text">Technical Considerations</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About</span></a>
   </li>  
@@ -132,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>We (David Kane and …) believe that it would be a mistake for the Federal Government to create a Strategic Bitcoin Reserve, as <a href="https://www.congress.gov/bill/118th-congress/senate-bill/4912/all-info">proposed</a> by Sen.&nbsp;Cynthia Lummis (R-WY). Instead, the US should create a competitor to Bitcoin, a digital currency with all of the advantages of Bitcoin but also enjoying the full support of the US Government. Call this new currency “Treasury Coin,” or “T-Coin” for short.</p>
+<p>We (<a href="https://davidkane.info/">David Kane</a> and Bill Zhang) believe that it would be a mistake for the Federal Government to create a Strategic Bitcoin Reserve, as <a href="https://www.congress.gov/bill/118th-congress/senate-bill/4912/all-info">proposed</a> by Sen.&nbsp;Cynthia Lummis (R-WY). Instead, the US should create a competitor to Bitcoin, a digital currency with all of the advantages of Bitcoin but also enjoying the full support of the US Government. Call this new currency “Treasury Coin,” or “T-coin” for short.</p>
 <p>Why “Treasury Coin?” One interesting part of US financial history is the Treasury Coin Note. According to <a href="https://en.wikipedia.org/wiki/Treasury_Note_(1890%E2%80%931891)">Wikipedia</a>:</p>
 <blockquote class="blockquote">
 <p>The Treasury Note (also known as a Coin Note) was a type of representative money issued by the United States government from 1890 until 1893 under authority of the Sherman Silver Purchase Act in denominations of $1, $2, $5, $10, $20, $50, $100 and $1,000.</p>
@@ -146,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>The government issued the Treasury Note to individuals selling silver bullion to the Treasury. Unlike other redemption notes like silver and gold certificates (which stipulated whether the note was backed by and redeemable for silver or gold coin, respectively), Treasury Notes stipulated only that they were redeemable in coin. This allowed the Treasury to fulfil the note’s obligation in silver coin, gold coin, or both, at its discretion when the note was redeemed. This flexibility allowed the Treasury some control over releasing gold or silver when the relative value of the two metals fluctuated. The origin of the term “Coin Note” to describe the note is unclear – it may refer either to the coin it could be exchanged for, or derive from the fact that it was issued to pay for silver that would later be turned into coins.</p>
 </blockquote>
-<p>Our proposed Treasury Coin is significantly different from the Treasury Coin Notes of the 1890s. But, the turmoil of that time, culminating in William Jennings Bryan’s “<a href="https://en.wikipedia.org/wiki/Cross_of_Gold_speech">Cross of Gold Speech</a>” at the 1896 Democratic convention, is not so very different from our own . . .</p>
+<p>Our proposed Treasury Coin is significantly different from the Treasury Coin Notes of the 1890s. But, the turmoil of that time, culminating in William Jennings Bryan’s “<a href="https://en.wikipedia.org/wiki/Cross_of_Gold_speech">Cross of Gold</a>” speech at the 1896 Democratic convention, is not so very different from our own . . .</p>
 
 
 
@@ -243,7 +247,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/treasury-coin\.org");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

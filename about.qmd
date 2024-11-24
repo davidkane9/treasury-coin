@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-We (David Kane and ...) believe that it would be a mistake for the Federal Government to create a Strategic Bitcoin Reserve, as [proposed](https://www.congress.gov/bill/118th-congress/senate-bill/4912/all-info) by Sen. Cynthia Lummis (R-WY). Instead, the US should create a competitor to Bitcoin, a digital currency with all of the advantages of Bitcoin but also enjoying the full support of the US Government. Call this new currency "Treasury Coin," or "T-Coin" for short.
-
+We ([David Kane](https://davidkane.info/) and Bill Zhang) believe that it would be a mistake for the Federal Government to create a Strategic Bitcoin Reserve, as [proposed](https://www.congress.gov/bill/118th-congress/senate-bill/4912/all-info) by Sen. Cynthia Lummis (R-WY). Instead, the US should create a competitor to Bitcoin, a digital currency with all of the advantages of Bitcoin but also enjoying the full support of the US Government. Call this new currency "Treasury Coin," or "T-coin" for short.
 
 
 Why "Treasury Coin?" One interesting part of US financial history is the Treasury Coin Note. According to [Wikipedia](https://en.wikipedia.org/wiki/Treasury_Note_(1890%E2%80%931891)):
@@ -14,6 +13,6 @@ Why "Treasury Coin?" One interesting part of US financial history is the Treasur
 
 > The government issued the Treasury Note to individuals selling silver bullion to the Treasury. Unlike other redemption notes like silver and gold certificates (which stipulated whether the note was backed by and redeemable for silver or gold coin, respectively), Treasury Notes stipulated only that they were redeemable in coin. This allowed the Treasury to fulfil the note's obligation in silver coin, gold coin, or both, at its discretion when the note was redeemed. This flexibility allowed the Treasury some control over releasing gold or silver when the relative value of the two metals fluctuated. The origin of the term "Coin Note" to describe the note is unclear – it may refer either to the coin it could be exchanged for, or derive from the fact that it was issued to pay for silver that would later be turned into coins.
 
-Our proposed Treasury Coin is significantly different from the Treasury Coin Notes of the 1890s. But, the turmoil of that time, culminating in William Jennings Bryan's "[Cross of Gold Speech](https://en.wikipedia.org/wiki/Cross_of_Gold_speech)" at the 1896 Democratic convention, is not so very different from our own . . .
+Our proposed Treasury Coin is significantly different from the Treasury Coin Notes of the 1890s. But, the turmoil of that time, culminating in William Jennings Bryan's "[Cross of Gold](https://en.wikipedia.org/wiki/Cross_of_Gold_speech)" speech at the 1896 Democratic convention, is not so very different from our own . . .
 
 
