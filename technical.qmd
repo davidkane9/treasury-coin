@@ -3,3 +3,9 @@ title: "Technical Considerations"
 ---
 
 This page will discuss some technical considerations.
+
+<!-- We can use hidden comments to discuss planning. -->
+
+<!-- Initial draft needs a few bullet points which highlight the most important changes we propose to make, like a larger block size and so on. The document assumes a certain amount of technical background in its readers.  -->
+
+<!-- A second draft might begin with some background on blockchain/bitcoin, or at least good sources so that readers can learn more.  -->
