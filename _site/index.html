@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,10 +35,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -139,11 +139,11 @@ ul.task-list li input[type="checkbox"] {
 <p>The United States Government should create a “Treasury Coin” — call it “T-coin” for short — based on the protocol behind Bitcoin. T-coin would be the first government-supported anonymous, decentralized currency. Key points:</p>
 <ul>
 <li><p>Bitcoin has a market capitalization — meaning coin price in dollars multiplied by total number of coins — of around $2 trillion. This is a large enough number that something new, like T-coin, might have a meaningful impact on the US debt.</p></li>
-<li><p>All the code for Bitcoin is, by design, open source. There are no secrets. Nothing prevents us from copying Bitcoin down to the very last detail.</p></li>
+<li><p>All the code for the Bitcoin blockchain is, by design, open source. There are no secrets. Nothing prevents us from copying Bitcoin down to the very last detail. We would call it the “T-chain”.</p></li>
 <li><p>The Government could support the project by allowing people and business to pay their taxes with T-coin. Allowing, or even requiring, the use of a new currency for paying taxes is a tried and true method for governments throughout history to incentivise its use.</p></li>
 <li><p>There are two methods by which the US Government might benefit from T-coin directly. First, before releasing the project to the public, we could “<a href="https://www.investopedia.com/terms/p/premining.asp">premine</a>” a third or so of the total number of coins. Second, we could make a simple change in the protocol by which the US Government would receive a fraction of the coin reward each time a new block is created. From a political economy point of view, it might make more sense to do a smaller premine while taking a larger share of newly created coins, if only to avoid giving the Federal Government too large of an initial windfall.</p></li>
-<li><p>Our Treasury Coin plan is completely different from the usual <a href="https://en.wikipedia.org/wiki/Central_bank_digital_currency">Central Bank Digital Currency</a> (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with creating Treasury Coins.</p></li>
-<li><p>We still use dollars. Federal workers are paid in dollars. Social security checks are denominated in dollars. The USG could bring some stability to the value of T-coins by having a regular auction, similar to the auctions which the US Treasury currently holds for new debt issuance. A daily (or weekly or monthly) auction for T-coins could set the “official” exchange rate for T-coins to dollars until the next auction, thereby decreasing, at least somewhat, its volatility.</p></li>
+<li><p>Our Treasury Coin plan is completely different from the usual <a href="https://en.wikipedia.org/wiki/Central_bank_digital_currency">Central Bank Digital Currency</a> (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central benefit is we inherit all the positive properties of Bitcoin which lend it tremendous appeal and market cap. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with creating Treasury Coins.</p></li>
+<li><p>We still use dollars. Federal workers are paid in dollars. Social security checks are denominated in dollars. The value of T-coins will float relative to dollars. The USG could bring some stability to the value of T-coins by having a regular off-chain auction, similar to the auctions which the US Treasury currently holds for new debt issuance. A daily (or weekly or monthly) auction for T-coins could set the “official” exchange rate for T-coins to dollars until the next auction, thereby decreasing, at least somewhat, its volatility for everyday use.</p></li>
 <li><p>T-coins are likely to be much more useful than bitcoins because the US Government would have every incentive to ensure that they are. Every action which makes T-coins more valuable causes a significant increase in the dollar value of the T-coins which the USG already owns (after premining) and which it will continue to receive as new coins are mined. The USG could encourage and/or require various entities to accept T-coins for payment.</p></li>
 <li><p>T-coins are likely to be the most secure blockchain currency in the world because the US Government would have every incentive to make it secure.</p></li>
 </ul>
@@ -236,8 +236,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -246,7 +244,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/treasury-coin\.org");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -348,7 +346,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
