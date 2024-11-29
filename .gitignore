@@ -7,3 +7,5 @@ treasury-coin.Rproj
 _publish.yml
 
 /.quarto/
+
+_site/
