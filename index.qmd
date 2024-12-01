@@ -10,7 +10,7 @@ The United States Government should create a "Treasury Coin" --- call it "T-coin
 
 * The Government could support the project by allowing people and businesses to pay their taxes with T-coin. Allowing, or even requiring, the use of a new currency for paying taxes is a tried and true method for governments throughout history to incentivise the use of a new currency.
 
-* Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central benefit is we inherit all the positive properties of Bitcoin. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with creating Treasury Coins.
+* Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency plans](cbdc.html). 
 
 * We still use dollars. Federal workers are paid in dollars. Social security checks are denominated in dollars. The value of T-coins will float relative to dollars. The USG could bring some stability to the value of T-coins by having a regular off-chain auction, similar to the auctions which the US Treasury currently holds for new debt issuance. A daily (or weekly or monthly) auction for T-coins could set the "official" exchange rate for T-coins to dollars until the next auction, thereby decreasing, at least somewhat, its volatility for everyday use.
 

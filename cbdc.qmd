@@ -1,0 +1,6 @@
+---
+title: "Central Bank Digital Currencies"
+---
+
+
+Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central benefit is we inherit all the positive properties of Bitcoin. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with creating Treasury Coins.
