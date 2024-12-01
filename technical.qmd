@@ -1,5 +1,5 @@
 ---
-title: "Technical Considerations"
+title: "Technical"
 ---
 
 This page will discuss some technical considerations.

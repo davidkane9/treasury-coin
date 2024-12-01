@@ -1,0 +1,10 @@
+---
+title: "Seigniorage"
+---
+
+
+Bitcoin has a market capitalization --- meaning coin price in dollars multiplied by total number of coins --- of around $2 trillion. This is a large enough number that something new, like T-coin, might have a meaningful impact on the US debt.
+
+How much might T-coin help the US? Note that Dogecoin, a digital currency based on the Bitcoin protocol but created initially as a joke, has a market cap of around \$64 billion. If Bitcoin is worth 33 times more than Dogecoin, despite being a fundamentally similar creation, why couldn't T-coin be worth 50 times more than Bitcoin? At that valuation, just the premined portion of T-coin would allow the US Government to pay-off most of its \$36+ trillion debt. The coins which came to the Government as the system continued to run in the years which followed would contribute significantly to future spending.
+
+How is this possible? How could the US Government create, out of nothing, a digital currency which would allow it to pay off a \$33 trillion debt? The magic happens when we capture the [seigniorage](https://en.wikipedia.org/wiki/Seigniorage) benefit of creating the first government-supported, anonymous, decentralized currency.

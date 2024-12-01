@@ -4,14 +4,11 @@ title: "Treasury Coin"
 
 The United States Government should create a "Treasury Coin" --- call it "T-coin" for short --- based on the protocol behind Bitcoin. T-coin would be the first government-supported, anonymous, decentralized currency. Key points:
 
+* The benefits of [seigniorage](seigniorage.html) mean that Teasury Coin might contribute trillions of dollars to the Federal Government. First, before releasing the project to the public, we could "[premine](https://www.investopedia.com/terms/p/premining.asp)" a third or so of the total number of coins. Second, we could make a simple change in the protocol by which the US Government would receive a fraction of the coin reward each time a new block is created.
 
-* Bitcoin has a market capitalization --- meaning coin price in dollars multiplied by total number of coins --- of around $2 trillion. This is a large enough number that something new, like T-coin, might have a meaningful impact on the US debt.
-
-* All the code for the Bitcoin blockchain is, by design, open source. There are no secrets. Nothing prevents us from copying Bitcoin down to the very last detail. We would name this new blockchain the "T-chain".
+* All the code for the Bitcoin blockchain is open source. There are no secrets. Nothing prevents us from copying Bitcoin down to the very last detail. Call this new blockchain the "T-chain".
 
 * The Government could support the project by allowing people and businesses to pay their taxes with T-coin. Allowing, or even requiring, the use of a new currency for paying taxes is a tried and true method for governments throughout history to incentivise the use of a new currency.
-
-* There are two methods by which the US Government might benefit from T-coin directly. First, before releasing the project to the public, we could "[premine](https://www.investopedia.com/terms/p/premining.asp)" a third or so of the total number of coins. Second, we could make a simple change in the protocol by which the US Government would receive a fraction of the coin reward each time a new block is created. 
 
 * Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central benefit is we inherit all the positive properties of Bitcoin. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with creating Treasury Coins.
 
@@ -22,10 +19,6 @@ The United States Government should create a "Treasury Coin" --- call it "T-coin
 * T-coins are likely to be the most secure blockchain currency in the world because the US Government would have every incentive to make it secure.
 
 * Other major countries are likely already considering the launch of their own digital currencies that compete with Bitcoin. It is important for the US to signal strength by being first to launch such a project, so that the future of cryptocurrencies is *made in America*.
-
-How much might T-coin help the US? Note that Dogecoin, a digital currency based on the Bitcoin protocol but created initially as a joke, has a market cap of around \$64 billion. If Bitcoin is worth 33 times more than Dogecoin, despite being a fundamentally similar creation, why couldn't T-coin be worth 50 times more than Bitcoin? At that valuation, just the premined portion of T-coin would allow the US Government to pay-off most of its \$36+ trillion debt. The coins which came to the Government as the system continued to run in the years which followed would contribute significantly to future spending.
-
-How is this possible? How could the US Government create, out of nothing, a digital currency which would allow it to pay off a \$33 trillion debt? The magic happens when we capture the [seigniorage](https://en.wikipedia.org/wiki/Seigniorage) benefit of creating the first government-supported, anonymous, decentralized currency.
 
 If you want further updates, [sign up for our Substack](https://treasurycoin.substack.com/).
 
