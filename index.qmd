@@ -12,7 +12,7 @@ The United States Government should create a "Treasury Coin" --- call it "T-coin
 
 * Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency plans](cbdc.html). 
 
-* We still use dollars. Federal workers are paid in dollars. Social security checks are denominated in dollars. The value of T-coins will float relative to dollars. The USG could bring some stability to the value of T-coins by having a regular off-chain auction, similar to the auctions which the US Treasury currently holds for new debt issuance. A daily (or weekly or monthly) auction for T-coins could set the "official" exchange rate for T-coins to dollars until the next auction, thereby decreasing, at least somewhat, its volatility for everyday use.
+* We still use dollars. Federal workers are paid in dollars. Social security checks are denominated in dollars. The value of T-coins will float relative to dollars. The USG could bring some stability to the value of T-coins by having a regular off-chain [auction](auction.html), similar to the auctions which the US Treasury currently holds for new debt issuance.
 
 * T-coins are likely to be much more useful than bitcoins because the US Government would have every incentive to ensure that they are. Every action which makes T-coins more valuable causes a significant increase in the dollar value of the T-coins which the USG already owns (after premining) and which it will continue to receive as new coins are mined. The USG could encourage and/or require various entities to accept T-coins for payment.
 

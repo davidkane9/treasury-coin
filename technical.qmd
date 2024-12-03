@@ -2,16 +2,18 @@
 title: "Technical"
 ---
 
-This page will discuss some technical considerations.
+<!-- 1. Make some detailed recommendations. What do you think would be best? Of course, the text would note that this is just one possibility, that other options are reasonable. But it would be useful to see what one smart person (you!) thinks is best, especially with regard to block size and block time.  -->
 
-<!-- We can use hidden comments to discuss planning. -->
+<!-- 2. Provide more links to definitions/descriptions of various terms, the ones you do (like Beacon and the Merge) are good and useful!  -->
 
-<!-- Initial draft needs a few bullet points which highlight the most important changes we propose to make, like a larger block size and so on. The document assumes a certain amount of technical background in its readers.  -->
+<!-- 3. Begin with some background on blockchain/bitcoin, or at least good sources so that readers can learn more. -->
+
+
+Some technical considerations:
+
 * The current average block time on Bitcoin is calibrated to be around ten minutes. Depending on the use cases in mind for the T-chain, we can very simply lower the average block time by reducing the difficulty of the proof-of-work task, possibly down to fifteen seconds, which was the block time on Ethereum when it used proof-of-work.
 
 * The current block size on Bitcoin is constrained to 4 MB. Similar to Bitcoin Cash, we can simply increase the block size of the T-chain to handle many more transactions.
-
-* Bitcoin has historically experienced significant price volatility which reduces its effectiveness as a medium of exchange. Though T-coin is not meant to replace the dollar, in order to stabilize its conversion rate with the dollar, the USG can hold a regular, possibly daily, off-chain auction which sets the "official" exchange rate for that time interval. Official business like paying taxes with T-coins would be pegged to the official exchange rate. Other businesses like consumer payments may follow the lead of the USG and also adopt the "official" exchange rate. *This is completely separate from the T-chain protocol, which continues to resemble Bitcoin.* The positive externality of this "official" exchange rate is it inherently makes the exchange rate more stable: during the day, if the "unofficial" exchange rate diverges, people may arbitrage the spread, which naturally converges the "unofficial" exchange rate back to the "official" exchange rate.
 
 * The maximum supply of Bitcoin is capped at 21 million, which lends it credibility and enduring value. The T-coin is not meant to replace the dollar, hence its maximum supply should probably be capped like Bitcoin rather than subject to USG monetary policy. However, depending on the use cases, we can simply modify the maximum supply of the T-chain to be variable, allowing it to exceed 21 million, similar to the maximum supply of Dogecoin which is uncapped.
 
@@ -19,4 +21,4 @@ This page will discuss some technical considerations.
 
 * The main threat to a proof-of-work blockchain (including Bitcoin) is the 51% attack, where at least 51% of the mining power of the blockchain colludes to create and validate fraudulent blocks to the chain. Given the prominence of the T-chain from day one as sponsored by the USG, nation-state adversaries might possibly have incentives to launch 51% attacks against it. To prevent these threat vectors, the T-chain should prepare, before its launch, a significant reserve of mining power which is guaranteed to not partake in any such attacks, and which is large enough to maintain at least 51% of the mining power of the blockchain even in the face of such attacks.
 
-<!-- A second draft might begin with some background on blockchain/bitcoin, or at least good sources so that readers can learn more.  -->
+

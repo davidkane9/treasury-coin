@@ -1,0 +1,8 @@
+---
+title: "Auction"
+---
+
+
+Bitcoin has historically experienced significant price volatility which reduces its effectiveness as a medium of exchange. Though T-coin is not meant to replace the dollar, in order to stabilize its conversion rate with the dollar, the USG can hold a regular, possibly daily, off-chain auction which sets the "official" exchange rate for that time interval. Official business like paying taxes with T-coins would be pegged to the official exchange rate. Other businesses like consumer payments may follow the lead of the USG and also adopt the "official" exchange rate. *This is completely separate from the T-chain protocol, which continues to resemble Bitcoin.* The positive externality of this "official" exchange rate is it inherently makes the exchange rate more stable: during the day, if the "unofficial" exchange rate diverges, people may arbitrage the spread, which naturally converges the "unofficial" exchange rate back to the "official" exchange rate.
+
+

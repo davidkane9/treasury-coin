@@ -9,8 +9,9 @@ website:
         text: Home
       - text: Details
         menu:
-          - href: seigniorage.qmd
           - href: technical.qmd
+          - href: seigniorage.qmd
+          - href: auction.qmd          
           - href: cbdc.qmd          
       - about.qmd
 
