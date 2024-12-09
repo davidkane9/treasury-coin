@@ -5,4 +5,39 @@ title: "Auction"
 
 Bitcoin has historically experienced significant price volatility which reduces its effectiveness as a medium of exchange. Though T-coin is not meant to replace the dollar, in order to stabilize its conversion rate with the dollar, the USG can hold a regular, possibly daily, off-chain auction which sets the "official" exchange rate for that time interval. Official business like paying taxes with T-coins would be pegged to the official exchange rate. Other businesses like consumer payments may follow the lead of the USG and also adopt the "official" exchange rate. *This is completely separate from the T-chain protocol, which continues to resemble Bitcoin.* The positive externality of this "official" exchange rate is it inherently makes the exchange rate more stable: during the day, if the "unofficial" exchange rate diverges, people may arbitrage the spread, which naturally converges the "unofficial" exchange rate back to the "official" exchange rate.
 
+### How Treasury Auctions Work
 
+Treasury auctions are the primary mechanism by which the U.S. Department of the Treasury raises funds to finance government operations and pay off maturing debt. These auctions facilitate the issuance of Treasury securities, which are debt instruments guaranteeing a return to investors in the form of interest payments or discounts to their purchase price. Treasury securities come in three main types: bills (short-term), notes (medium-term), and bonds (long-term).
+
+#### Auction Process Overview
+
+1. **Announcement**  
+   The Treasury Department announces auctions in advance, detailing the type of security, the auction date, the maturity date, and the total amount of securities available. This information is typically posted on the TreasuryDirect website and distributed to financial news outlets.
+
+2. **Auction Format**  
+   Treasury auctions use one of two formats: competitive and non-competitive bidding.
+   - **Non-competitive Bidding**: This is designed for smaller investors who are guaranteed to receive the full amount of securities they request, at the auction’s determined yield. Non-competitive bidders accept whatever yield is established during the auction.
+   - **Competitive Bidding**: Institutional investors, such as banks and large investment funds, submit bids specifying the yield (or price) they are willing to accept. These bids compete against one another, with lower yields (higher prices) receiving priority until the total amount of securities is allocated.
+
+3. **Bidding**  
+   Bidders submit their requests electronically through the Treasury Automated Auction Processing System (TAAPS). Competitive bids are ranked from lowest yield to highest yield, and the Treasury allocates securities starting with the lowest yield until the total offering amount is met.
+
+4. **Yield Determination**  
+   The auction yield is set as the highest yield accepted (referred to as the "stop-out yield"). Non-competitive bidders and successful competitive bidders all receive the same yield, ensuring fairness in pricing. This process is known as a "single-price" or "Dutch" auction.
+
+#### After the Auction
+
+Once the auction concludes:
+- The Treasury announces the results, including the stop-out yield, total bids received, and the percentage of competitive bids accepted.
+- Winning bidders settle their payments on the issuance date, which usually occurs a few days after the auction.
+- Securities are issued electronically, either through TreasuryDirect accounts or in the commercial book-entry system used by financial institutions.
+
+#### Role of Primary Dealers
+
+Primary dealers, a select group of financial institutions, play a key role in Treasury auctions. They are required to participate in every auction and make competitive bids to ensure the auction's success. They also help stabilize the market by reselling the securities to other investors.
+
+#### Importance of Treasury Auctions
+
+Treasury auctions are essential for funding the U.S. government and maintaining liquidity in the financial system. By providing a transparent and efficient market, they attract a wide range of investors, from central banks and large institutions to individual buyers. The process also helps determine risk-free interest rates, which serve as a benchmark for other financial instruments.
+
+In summary, Treasury auctions are a carefully orchestrated process designed to ensure fairness, transparency, and efficiency while meeting the government’s funding needs.

@@ -3,4 +3,53 @@ title: "Central Bank Digital Currencies"
 ---
 
 
-Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central benefit is we inherit all the positive properties of Bitcoin. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with creating Treasury Coins.
+Our Treasury Coin plan is completely different from the usual [Central Bank Digital Currency](https://en.wikipedia.org/wiki/Central_bank_digital_currency) (CBDC) projects because it uses the privacy-protecting Bitcoin protocol. The central benefit is we inherit all the positive properties of Bitcoin. The central cost of using a system like Bitcoin is that, like physical cash, it allows for anonymous use. Criminals would be able to use T-coins, just as they currently use bitcoins and cash, to hide their activities from the government. Allowing this use seems a small price to pay in order to reap the financial rewards associated with [seigniorage](seigniorage.html).
+
+### Background
+
+A **Central Bank Digital Currency (CBDC)** is a digital form of a country’s national currency, issued and regulated by its central bank. Unlike physical cash or private cryptocurrencies, a CBDC is a government-backed, centralized digital currency that carries the same legal tender status as traditional fiat currency. CBDCs aim to modernize the monetary system, improve payment efficiency, and provide a secure and stable digital alternative to private cryptocurrencies and cash.
+
+#### Key Features of CBDCs
+
+1. **Centralized Authority**:  
+   Unlike decentralized cryptocurrencies, CBDCs are controlled by the issuing central bank. This centralized nature ensures government oversight, monetary policy implementation, and currency stability.
+
+2. **Legal Tender**:  
+   CBDCs are an official representation of fiat currency, meaning they are legally recognized for transactions and debt settlements within the issuing country.
+
+3. **Two Models**:  
+   - **Retail CBDCs** are designed for the general public, allowing individuals and businesses to hold accounts directly with the central bank or through intermediaries.
+   - **Wholesale CBDCs** are restricted to financial institutions for interbank payments and settlement purposes.
+
+4. **Blockchain Optional**:  
+   While many CBDCs use blockchain or distributed ledger technology (DLT), not all do. The underlying infrastructure is chosen based on the need for security, scalability, and transaction speed.
+
+#### CBDC vs. Bitcoin
+
+Although both CBDCs and Bitcoin are digital currencies, they differ fundamentally in purpose, design, and operation.
+
+1. **Centralization vs. Decentralization**:  
+   - **CBDCs**: Centralized and controlled by a central authority, usually the national central bank. Decisions about issuance, supply, and policy are determined by the government.
+   - **Bitcoin**: Decentralized, with no central authority. It operates on a peer-to-peer network governed by consensus mechanisms (e.g., proof-of-work).
+
+2. **Purpose**:  
+   - **CBDCs**: Serve as a digital extension of fiat currency to improve the efficiency of payment systems, enhance financial inclusion, and support monetary policy.
+   - **Bitcoin**: Designed as an alternative to traditional currency, prioritizing financial independence, decentralization, and resistance to censorship.
+
+3. **Underlying Technology**:  
+   - **CBDCs**: May or may not use blockchain. If blockchain is used, it is typically a private or permissioned ledger controlled by the central bank.
+   - **Bitcoin**: Operates on a public, permissionless blockchain, where anyone can participate in the network.
+
+4. **Supply and Value**:  
+   - **CBDCs**: The supply is managed by the central bank, aligned with monetary policy objectives. The value is pegged to the national currency.
+   - **Bitcoin**: Has a fixed supply of 21 million coins, and its value is determined by market demand and supply, making it highly volatile.
+
+5. **Anonymity**:  
+   - **CBDCs**: Offer limited or no anonymity. Transactions can be monitored to prevent illicit activities and enforce regulations.
+   - **Bitcoin**: Provides pseudonymity, with transactions recorded on a transparent public ledger without revealing personal identities.
+
+#### Implications of CBDCs
+
+CBDCs promise faster, cheaper, and more secure transactions, potentially reducing reliance on physical cash and improving access to financial systems. However, they also raise concerns about privacy, as centralized control allows governments to monitor transactions and enforce strict oversight.
+
+In contrast to Bitcoin, which represents a push for financial autonomy, CBDCs reinforce state authority over money. Both play significant roles in shaping the future of digital finance, with CBDCs poised to integrate into existing monetary frameworks and Bitcoin operating as a decentralized alternative.
