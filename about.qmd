@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-We ([David Kane](https://davidkane.info/), Bill Zhang, and Stacy Song) believe that it would be a mistake for the Federal Government to create a Strategic Bitcoin Reserve, as [proposed](https://www.congress.gov/bill/118th-congress/senate-bill/4912/all-info) by Sen. Cynthia Lummis (R-WY). Instead, the US should create a competitor to Bitcoin, a digital currency with all of the advantages of Bitcoin but also enjoying the full support of the US Government. Call this new currency "Treasury Coin," or "T-coin" for short.
+We ([David Kane](https://davidkane.info/), Bill Zhang, and [Stacy Song](https://github.com/yanrong-stacy-song) ) believe that it would be a mistake for the Federal Government to create a Strategic Bitcoin Reserve, as [proposed](https://www.congress.gov/bill/118th-congress/senate-bill/4912/all-info) by Sen. Cynthia Lummis (R-WY). Instead, the US should create a competitor to Bitcoin, a digital currency with all of the advantages of Bitcoin but also enjoying the full support of the US Government. Call this new currency "Treasury Coin," or "T-coin" for short.
 
 
 Why "Treasury Coin?" One interesting part of US financial history is the Treasury Coin Note. According to [Wikipedia](https://en.wikipedia.org/wiki/Treasury_Note_(1890%E2%80%931891)):
